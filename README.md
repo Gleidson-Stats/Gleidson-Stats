@@ -3,7 +3,7 @@
   <p><strong>Tech Lead | Estatístico | Data Analyst</strong></p>
   
   <p>
-    <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+    <a href="https://www.linkedin.com/in/gleidson-soares-stats/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:gleidson.stats@gmail.com">
