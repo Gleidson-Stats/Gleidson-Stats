@@ -20,8 +20,8 @@
 Atuo como **Tech Lead** e **Estatístico**, unindo rigor analítico, engenharia de dados e visão de negócios para transformar ecossistemas complexos de dados em produtos de tomada de decisão.
 
 - 🎯 **Liderança Técnica & Gestão:** Liderança de times interdisciplinares (**BI, RPA, Dev e Suporte**), estruturando processos, padrões ágeis, segurança da informação e governança de [...]
-- 📊 **Modelagem & Estatística Aplicada:** Análise descritiva/inferencial, testes de hipóteses, séries temporais, regressão linear/logística e parametrização de regras de negócio de alta co[...]
-- ⚙️ **Engenharia & Arquitetura de Dados:** Criação e sustentação de pipelines ETL/ELT integrando múltiplas origens heterogêneas (*Filas de mensageria, APIs REST, bancos relacionais e DWs*).
+- 📊 **Modelagem & Estatística Aplicada:** Análise descritiva/inferencial, testes de hipóteses, séries temporais, regressão linear/logística e parametrização de regras de negócio de alt[...]
+- ⚙️ **Engenharia & Arquitetura de Dados:** Criação e sustentação de pipelines ETL/ELT integrando múltiplas origens heterogêneas (*Filas de mensageria, APIs REST, bancos relacionais e DW[...]
 - 🌐 **Idiomas:** Português (Nativo) | Inglês (Intermediário) | Francês (Iniciante)
 
 ---
@@ -89,8 +89,8 @@ Atuo como **Tech Lead** e **Estatístico**, unindo rigor analítico, engenharia 
 ### 📊 Estatísticas do GitHub & Atividade
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gleidson-Stats&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="160em" src="https://github-stats-extended.vercel.app/api?username=Gleidson-Stats&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats Extended" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleidson-Stats&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
