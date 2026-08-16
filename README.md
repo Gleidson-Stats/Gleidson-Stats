@@ -90,17 +90,17 @@ Atuo como **Tech Lead** e **Estatístico**, unindo rigor analítico, engenharia 
 
 <div align="center">
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img height="160em" src="https://github-stats-extended.vercel.app/api?username=Gleidson-Stats&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats Extended" />
+    <img height="160em" src="https://github-stats-extended.vercel.app/api?username=Gleidson-Stats&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats Extended" />
   </a>
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gleidson-Stats&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
+    <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gleidson-Stats&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   </a>
   <br /><br />
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height="160em" src="https://streak-stats.demolab.com?user=Gleidson-Stats&theme=dracula&hide_border=true" alt="GitHub Streak" />
+    <img height="160em" src="https://streak-stats.demolab.com?user=Gleidson-Stats&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
   <a href="https://www.duolingo.com/profile/Gleidsonsk8">
-    <img height="160em" src="https://duolingo-stats-card.vercel.app/api?username=Gleidsonsk8" alt="Duolingo Stats" />
+    <img height="160em" src="https://duolingo-stats-card.vercel.app/api?username=Gleidsonsk8&theme=tokyonight&hide_border=true" alt="Duolingo Stats" />
   </a>
 </div>
 
