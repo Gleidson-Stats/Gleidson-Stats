@@ -92,15 +92,15 @@ Atuo como **Tech Lead** e **Estatístico**, unindo rigor analítico, engenharia 
   <a href="https://github.com/stats-organization/github-stats-extended">
     <img height="160em" src="https://github-stats-extended.vercel.app/api?username=Gleidson-Stats&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats Extended" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleidson-Stats&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gleidson-Stats&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
   </a>
   <br /><br />
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img height="160em" src="https://streak-stats.demolab.com?user=Gleidson-Stats&theme=dracula&hide_border=true" alt="GitHub Streak" />
   </a>
-  <a href="https://github.com/joshisaac/duolingo-readme-stats">
-    <img height="160em" src="https://duolingo-stats.vercel.app/api?username=Gleidsonsk8&theme=dracula&hide_border=true" alt="Duolingo Stats" />
+  <a href="https://www.duolingo.com/profile/Gleidsonsk8">
+    <img height="160em" src="https://img.shields.io/badge/Duolingo-Gleidsonsk8-4ABF4A?style=for-the-badge&logo=duolingo&logoColor=white" alt="Duolingo Profile" />
   </a>
 </div>
 
