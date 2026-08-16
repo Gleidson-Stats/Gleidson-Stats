@@ -100,7 +100,7 @@ Atuo como **Tech Lead** e **Estatístico**, unindo rigor analítico, engenharia 
     <img height="160em" src="https://streak-stats.demolab.com?user=Gleidson-Stats&theme=dracula&hide_border=true" alt="GitHub Streak" />
   </a>
   <a href="https://www.duolingo.com/profile/Gleidsonsk8">
-    <img height="160em" src="https://img.shields.io/badge/Duolingo-Gleidsonsk8-4ABF4A?style=for-the-badge&logo=duolingo&logoColor=white" alt="Duolingo Profile" />
+    <img height="160em" src="https://duolingo-stats-card.vercel.app/api?username=Gleidsonsk8" alt="Duolingo Stats" />
   </a>
 </div>
 
