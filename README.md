@@ -90,17 +90,17 @@ Atuo como **Tech Lead** e **Estatístico**, unindo rigor analítico, engenharia 
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gleidson-Stats&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_GITHUB&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleidson-Stats&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
   </a>
   <br /><br />
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height="160em" src="https://streak-stats.demolab.com?user=SEU_USERNAME_GITHUB&theme=dracula&hide_border=true" alt="GitHub Streak" />
+    <img height="160em" src="https://streak-stats.demolab.com?user=Gleidson-Stats&theme=dracula&hide_border=true" alt="GitHub Streak" />
   </a>
   <a href="https://github.com/joshisaac/duolingo-readme-stats">
-    <img height="160em" src="https://duolingo-stats.vercel.app/api?username=SEU_USERNAME_DUOLINGO&theme=dracula&hide_border=true" alt="Duolingo Stats" />
+    <img height="160em" src="https://duolingo-stats.vercel.app/api?username=Gleidsonsk8&theme=dracula&hide_border=true" alt="Duolingo Stats" />
   </a>
 </div>
 
