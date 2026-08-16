@@ -19,8 +19,8 @@
 
 Atuo como **Tech Lead** e **Estatístico**, unindo rigor analítico, engenharia de dados e visão de negócios para transformar ecossistemas complexos de dados em produtos de tomada de decisão.
 
-- 🎯 **Liderança Técnica & Gestão:** Liderança de times interdisciplinares (**BI, RPA, Dev e Suporte**), estruturando processos, padrões ágeis, segurança da informação e governança de dados.
-- 📊 **Modelagem & Estatística Aplicada:** Análise descritiva/inferencial, testes de hipóteses, séries temporais, regressão linear/logística e parametrização de regras de negócio de alta complexidade.
+- 🎯 **Liderança Técnica & Gestão:** Liderança de times interdisciplinares (**BI, RPA, Dev e Suporte**), estruturando processos, padrões ágeis, segurança da informação e governança de [...]
+- 📊 **Modelagem & Estatística Aplicada:** Análise descritiva/inferencial, testes de hipóteses, séries temporais, regressão linear/logística e parametrização de regras de negócio de alta co[...]
 - ⚙️ **Engenharia & Arquitetura de Dados:** Criação e sustentação de pipelines ETL/ELT integrando múltiplas origens heterogêneas (*Filas de mensageria, APIs REST, bancos relacionais e DWs*).
 - 🌐 **Idiomas:** Português (Nativo) | Inglês (Intermediário) | Francês (Iniciante)
 
