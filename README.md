@@ -62,19 +62,21 @@ Especialista em **Data Engineering** e **Estatística Aplicada** com experiênci
 
 | Projeto | Categoria | Tecnologias | Descrição |
 |---------|-----------|-------------|-----------|
-| **Pipeline de Ingestão Multifonte** | Engenharia de Dados | dbt, Airflow, PostgreSQL, Docker | Arquitetura ETL escalável integrando APIs REST, filas de mensageria e bancos relacionais. Implementação de validações de qualidade, SLAs de processamento e governance de dados com versionamento automático. |
-| **Modelo de Séries Temporais Autoregressivo** | Estatística Aplicada | Python, R, Pandas, Statsmodels | Desenvolvimento e validação de modelos ARIMA/SARIMA para previsão de demanda operacional. Incluindo testes de estacionariedade, análise de autocorrelação e calibração de parâmetros com cross-validation. |
-| **Dashboard Executivo de KPIs** | Business Intelligence | Power BI, DAX, SQL | Solução integrada de monitoria com indicadores de performance em tempo real. Drilldown multidimensional, alertas baseados em regras de negócio e relatórios automatizados para stakeholders. |
+| **Pipeline de Ingestão Multifonte** | Engenharia de Dados | dbt, Airflow, PostgreSQL, Docker | Arquitetura ETL escalável integrando APIs REST, filas de mensageria e bancos relacionais. Impleme[...]
+| **Modelo de Séries Temporais Autoregressivo** | Estatística Aplicada | Python, R, Pandas, Statsmodels | Desenvolvimento e validação de modelos ARIMA/SARIMA para previsão de demanda operacio[...]
+| **Dashboard Executivo de KPIs** | Business Intelligence | Power BI, DAX, SQL | Solução integrada de monitoria com indicadores de performance em tempo real. Drilldown multidimensional, alertas [...]
 
 ---
 
 ## 📊 Estatísticas & Atividade
 
 <div align="center">
-  
-![Gleidson GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gleidson-Stats&show_icons=true&theme=radical&hide_border=true&count_private=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gleidson-Stats&layout=compact&theme=radical&hide_border=true&langs_count=8)
+[![Duolingo](https://img.shields.io/badge/Duolingo-CE82B8?style=for-the-badge&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/Gleidson-Stats)
+
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=Gleidson-Stats&show_icons=true&count_private=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gleidson-Stats&layout=compact&hide_border=true)
 
 </div>
 
