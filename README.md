@@ -71,13 +71,12 @@ Especialista em **Data Engineering** e **Estatística Aplicada** com experiênci
 ## 📊 Estatísticas & Atividade
 
 <div align="center">
-
-[![Duolingo](https://img.shields.io/badge/Duolingo-CE82B8?style=for-the-badge&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/Gleidson-Stats)
-
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=Gleidson-Stats&show_icons=true&count_private=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gleidson-Stats&layout=compact&hide_border=true)
-
+  <a href="https://www.duolingo.com/profile/Gleidsonsk8">
+    <img height="160em" src="https://duolingo-stats-card.vercel.app/api?username=Gleidsonsk8" alt="Duolingo Stats" />
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="160em" src="https://github-stats-extended.vercel.app/api?username=Gleidson-Stats&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats Extended" />
+  </a>
 </div>
 
 ---
