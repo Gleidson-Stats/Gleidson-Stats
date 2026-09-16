@@ -71,11 +71,11 @@ Especialista em **Data Engineering** e **Estatística Aplicada** com experiênci
 ## 📊 Estatísticas & Atividade
 
 <div align="center">
-  <a href="https://www.duolingo.com/profile/Gleidsonsk8">
-    <img height="160em" src="https://duolingo-stats-card.vercel.app/api?username=Gleidsonsk8" alt="Duolingo Stats" />
-  </a>
   <a href="https://github.com/stats-organization/github-stats-extended">
     <img height="160em" src="https://github-stats-extended.vercel.app/api?username=Gleidson-Stats&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats Extended" />
+  </a>
+  <a href="https://www.duolingo.com/profile/Gleidsonsk8">
+    <img height="160em" src="https://duolingo-stats-card.vercel.app/api?username=Gleidsonsk8" alt="Duolingo Stats" />
   </a>
 </div>
 
