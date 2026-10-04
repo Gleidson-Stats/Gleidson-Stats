@@ -62,9 +62,11 @@ Especialista em **Data Engineering** e **Estatística Aplicada** com experiênci
 
 | Projeto | Categoria | Tecnologias | Descrição |
 |---------|-----------|-------------|-----------|
-| **Pipeline de Ingestão Multifonte** | Engenharia de Dados | dbt, Airflow, PostgreSQL, Docker | Arquitetura ETL escalável integrando APIs REST, filas de mensageria e bancos relacionais. Impleme[...]
-| **Modelo de Séries Temporais Autoregressivo** | Estatística Aplicada | Python, R, Pandas, Statsmodels | Desenvolvimento e validação de modelos ARIMA/SARIMA para previsão de demanda operacio[...]
-| **Dashboard Executivo de KPIs** | Business Intelligence | Power BI, DAX, SQL | Solução integrada de monitoria com indicadores de performance em tempo real. Drilldown multidimensional, alertas [...]
+| **Classificação de Variedades de Feijão** | Estatística Aplicada | R, R Markdown, MASS, caret, pROC, LaTeX/Beamer | Classificação supervisionada no *Dry Bean Dataset* (13.611 grãos, 7 variedades). Análise Discriminante Linear com 89,4% de acurácia, Kappa de 0,872 e AUC de 0,992, comparada a uma árvore de decisão. Relatório técnico e apresentação gerados em R Markdown. |
+| **Sistema de Gestão para Podologia** | Desenvolvimento & Dados | Flutter, FastAPI, PostgreSQL, Docker | Aplicação web para clínica de podologia: cadastro de pacientes, anamnese, agenda e termos de consentimento, com API REST autenticada, banco PostgreSQL e backup automático. |
+| **Spotify Lyrics Overlay** | Aplicação Desktop | Python, PySide6, Spotify Web API | Overlay transparente, sempre no topo, que mostra a letra sincronizada da música tocando no Spotify, com cache local das letras. |
+
+<sub>Os repositórios desses projetos são privados no momento.</sub>
 
 ---
 
