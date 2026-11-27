@@ -1,102 +1,78 @@
 <div align="center">
-  <h1>🚀 Gleidson Soares</h1>
-  <p><strong>Tech Lead | Estatístico | Data Engineer | Business Intelligence</strong></p>
-  
+  <h1>Gleidson Soares · G Soares Analytics</h1>
+  <p><strong>Estatístico e Engenheiro de Dados</strong><br/>
+  Análises estatísticas para pesquisas acadêmicas e soluções de dados para pequenas empresas.</p>
+
   <p>
-    Transformando dados complexos em insights estratégicos através de engenharia de dados robusta, 
-    modelagem estatística rigorosa e visualizações inteligentes. Arquiteto de pipelines escaláveis 
-    e líder técnico em ecossistemas de analytics.
-  </p>
-  
-  <p>
+    <a href="mailto:gleidson.stats@gmail.com?subject=Or%C3%A7amento%20-%20G%20Soares%20Analytics">
+      <img src="https://img.shields.io/badge/Solicitar%20or%C3%A7amento-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Solicitar orçamento" />
+    </a>
     <a href="https://www.linkedin.com/in/gleidson-soares-stats/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:gleidson.stats@gmail.com">
-      <img src="https://img.shields.io/badge/Email-gleidson.stats%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <img src="https://img.shields.io/badge/Brasil-🇧🇷-informational?style=for-the-badge" alt="Brasil" />
   </p>
+  <sub>📍 Maringá, PR · Atendimento remoto em todo o Brasil · Atendimento em português e inglês</sub>
 </div>
 
 ---
 
-## 🎯 Sobre Mim
+## 🤝 Como posso ajudar
 
-Especialista em **Data Engineering** e **Estatística Aplicada** com experiência comprovada em:
+### Para pesquisadores (TCC, mestrado, doutorado, artigos)
+- **Planejamento:** cálculo de tamanho amostral e desenho do estudo
+- **Análise de dados:** estatística descritiva, testes de hipóteses, regressão, ANOVA e modelos mistos
+- **Questionários e escalas:** confiabilidade (alfa, ômega) e análise fatorial exploratória e confirmatória
+- **Entrega reprodutível:** relatório em Quarto com código em R, tabelas e gráficos prontos para publicação e texto de métodos e resultados
 
-- **Liderança Técnica:** Estruturação de times de dados, implementação de padrões, governance e arquitetura escalável
-- **Engenharia de Dados:** Pipelines ETL/ELT robustos, modelagem dimensional, orquestração e qualidade de dados
-- **Estatística & Analytics:** Análise inferencial, séries temporais, modelagem preditiva e testes de hipóteses
-- **Business Intelligence:** Dashboards executivos, dataviz estratégica e Self-Service BI
+### Para pequenas e médias empresas
+- **Organização dos dados:** integração de planilhas, sistemas e APIs em um banco PostgreSQL
+- **Pipelines confiáveis:** modelagem com dbt, testes de qualidade e atualização automática
+- **Indicadores e dashboards:** vendas, clientes, estoque e operação
+- **Decisões com estatística:** segmentação de clientes, previsão de demanda e testes A/B
 
----
-
-## 🛠️ Tech Stack
-
-### Linguagens & Modelagem Estatística
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
-
-### Engenharia & Orquestração
-<p>
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Apache Airflow" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
-### Business Intelligence & Visualização
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Qlik_Sense-009845?style=for-the-badge&logo=qlik&logoColor=white" alt="Qlik Sense" />
-</p>
+**Como funciona:** você descreve o problema → eu envio um escopo com prazo e preço fechado → você recebe a entrega com o código e a documentação.
 
 ---
 
-## 📁 Projetos em Destaque
+## 📁 Portfólio
 
-| Projeto | Categoria | Tecnologias | Descrição |
-|---------|-----------|-------------|-----------|
-| **Classificação de Variedades de Feijão** | Estatística Aplicada | R, R Markdown, MASS, caret, pROC, LaTeX/Beamer | Classificação supervisionada no *Dry Bean Dataset* (13.611 grãos, 7 variedades). Análise Discriminante Linear com 89,4% de acurácia, Kappa de 0,872 e AUC de 0,992, comparada a uma árvore de decisão. Relatório técnico e apresentação gerados em R Markdown. |
-| **Sistema de Gestão para Podologia** | Desenvolvimento & Dados | Flutter, FastAPI, PostgreSQL, Docker | Aplicação web para clínica de podologia: cadastro de pacientes, anamnese, agenda e termos de consentimento, com API REST autenticada, banco PostgreSQL e backup automático. |
-| **Spotify Lyrics Overlay** | Aplicação Desktop | Python, PySide6, Spotify Web API | Overlay transparente, sempre no topo, que mostra a letra sincronizada da música tocando no Spotify, com cache local das letras. |
-
-<sub>Os repositórios desses projetos são privados no momento.</sub>
-
----
-
-## 📊 Estatísticas & Atividade
-
-<div align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img height="160em" src="https://github-stats-extended.vercel.app/api?username=Gleidson-Stats&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats Extended" />
-  </a>
-  <a href="https://www.duolingo.com/profile/Gleidsonsk8">
-    <img height="160em" src="https://duolingo-stats-card.vercel.app/api?username=Gleidsonsk8" alt="Duolingo Stats" />
-  </a>
-</div>
+| Projeto | Para quem | O que mostra | Stack | Status |
+|---|---|---|---|---|
+| **Classificação de variedades de feijão** | Pesquisa | Análise discriminante linear no *Dry Bean Dataset* (13.611 grãos, 7 variedades): 89,4% de acurácia, Kappa 0,872 e AUC 0,992, comparada a uma árvore de decisão | R, MASS, caret, pROC, R Markdown | 🔜 Em breve |
+| **Sistema de gestão para clínica de podologia** | Empresa | Cadastro de pacientes, anamnese, agenda e termos de consentimento, com API REST autenticada e backup automático | FastAPI, PostgreSQL, Flutter, Docker | 🔜 Estudo de caso em breve |
+| **Pipeline e análise de e-commerce** | Empresa | Pipeline de dados com Python, PostgreSQL e dbt, mais análise RFM, coortes de retenção e atrasos de entrega | Python, PostgreSQL, dbt, R, Quarto | 🛠️ Em desenvolvimento |
+| **Kit estatístico do pesquisador** | Pesquisa | Guia de escolha de testes e calculadora de tamanho amostral online | R, Quarto, shinylive | 🛠️ Em desenvolvimento |
 
 ---
 
-## 🔗 Conecte-se
+## 🛠️ Ferramentas
 
-<div align="center">
-  
-Encontre-me em:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gleidson-soares-stats/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gleidson.stats@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gleidson-Stats)
-
-</div>
+| Área | Ferramentas |
+|---|---|
+| Estatística | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![Quarto](https://img.shields.io/badge/Quarto-39729E?style=flat-square&logo=quarto&logoColor=white) |
+| Engenharia de dados | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| BI | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Qlik Sense](https://img.shields.io/badge/Qlik_Sense-009845?style=flat-square&logo=qlik&logoColor=white) |
 
 ---
 
-<div align="center">
-  <sub>Construído com rigor estatístico, arquitetura escalável e liderança técnica.</sub>
-</div>
+## 👤 Sobre mim
+
+Sou estatístico e atuo como Tech Lead de dados. No dia a dia estruturo times, pipelines ETL/ELT, modelagem dimensional e governança de dados. Na G Soares Analytics, levo esse mesmo rigor para pesquisadores e empresas que precisam de respostas confiáveis a partir dos próprios dados.
+
+---
+
+<details>
+<summary><strong>🇺🇸 English</strong></summary>
+
+<br/>
+
+**Statistician & Data Engineer, founder of G Soares Analytics.**
+
+I help researchers and small businesses turn data into reliable answers:
+
+- **Research:** sample size planning, hypothesis testing, regression and mixed models, psychometrics (EFA/CFA, reliability), and reproducible reports in R and Quarto.
+- **Business:** PostgreSQL + dbt data pipelines, data quality tests, KPIs and dashboards, customer segmentation, and demand forecasting.
+
+Fixed-scope, fixed-price projects with full code and documentation. Contact: [gleidson.stats@gmail.com](mailto:gleidson.stats@gmail.com) · [LinkedIn](https://www.linkedin.com/in/gleidson-soares-stats/)
+
+</details>
