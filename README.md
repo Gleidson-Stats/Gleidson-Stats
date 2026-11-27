@@ -7,6 +7,9 @@
     <a href="mailto:gleidson.stats@gmail.com?subject=Or%C3%A7amento%20-%20G%20Soares%20Analytics">
       <img src="https://img.shields.io/badge/Solicitar%20or%C3%A7amento-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Solicitar orçamento" />
     </a>
+    <a href="https://gleidson-stats.github.io" target="_blank">
+      <img src="https://img.shields.io/badge/Site-G%20Soares%20Analytics-1F4E79?style=for-the-badge" alt="Site G Soares Analytics" />
+    </a>
     <a href="https://www.linkedin.com/in/gleidson-soares-stats/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -73,6 +76,6 @@ I help researchers and small businesses turn data into reliable answers:
 - **Research:** sample size planning, hypothesis testing, regression and mixed models, psychometrics (EFA/CFA, reliability), and reproducible reports in R and Quarto.
 - **Business:** PostgreSQL + dbt data pipelines, data quality tests, KPIs and dashboards, customer segmentation, and demand forecasting.
 
-Fixed-scope, fixed-price projects with full code and documentation. Contact: [gleidson.stats@gmail.com](mailto:gleidson.stats@gmail.com) · [LinkedIn](https://www.linkedin.com/in/gleidson-soares-stats/)
+Fixed-scope, fixed-price projects with full code and documentation. Contact: [gleidson.stats@gmail.com](mailto:gleidson.stats@gmail.com) · [Website](https://gleidson-stats.github.io/en/) · [LinkedIn](https://www.linkedin.com/in/gleidson-soares-stats/)
 
 </details>
