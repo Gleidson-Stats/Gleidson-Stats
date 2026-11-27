@@ -41,7 +41,7 @@
 
 | Projeto | Para quem | O que mostra | Stack | Status |
 |---|---|---|---|---|
-| **Classificação de variedades de feijão** | Pesquisa | Análise discriminante linear no *Dry Bean Dataset* (13.611 grãos, 7 variedades): 89,4% de acurácia, Kappa 0,872 e AUC 0,992, comparada a uma árvore de decisão | R, MASS, caret, pROC, R Markdown | 🔜 Em breve |
+| **[Classificação de variedades de feijão](https://gleidson-stats.github.io/dry-bean-classification/)** | Pesquisa | Análise discriminante linear no *Dry Bean Dataset* (13.611 grãos, 7 variedades): 89,4% de acurácia, Kappa 0,872 e AUC 0,992, comparada a uma árvore de decisão | R, MASS, caret, pROC, Quarto | ✅ [Relatório](https://gleidson-stats.github.io/dry-bean-classification/) · [Código](https://github.com/Gleidson-Stats/dry-bean-classification) |
 | **Sistema de gestão para clínica de podologia** | Empresa | Cadastro de pacientes, anamnese, agenda e termos de consentimento, com API REST autenticada e backup automático | FastAPI, PostgreSQL, Flutter, Docker | 🔜 Estudo de caso em breve |
 | **Pipeline e análise de e-commerce** | Empresa | Pipeline de dados com Python, PostgreSQL e dbt, mais análise RFM, coortes de retenção e atrasos de entrega | Python, PostgreSQL, dbt, R, Quarto | 🛠️ Em desenvolvimento |
 | **Kit estatístico do pesquisador** | Pesquisa | Guia de escolha de testes e calculadora de tamanho amostral online | R, Quarto, shinylive | 🛠️ Em desenvolvimento |
